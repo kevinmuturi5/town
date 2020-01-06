@@ -1,0 +1,380 @@
+[12-Jul-2019 13:54:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[12-Jul-2019 13:57:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[12-Jul-2019 13:59:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[12-Jul-2019 14:06:49 UTC] PHP Warning:  require_once(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:06:49 UTC] PHP Fatal error:  require_once(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:08:53 UTC] PHP Warning:  require_once(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:08:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:09:08 UTC] PHP Warning:  require_once(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:09:08 UTC] PHP Fatal error:  require_once(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:09:41 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:09:41 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:09:41 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:11:30 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:11:30 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:11:30 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:13:49 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:13:49 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:13:49 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:18 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:22 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:22 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:22 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:25 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:25 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:14:25 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:18:15 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:18:15 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:18:15 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:19:00 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 2
+[12-Jul-2019 14:19:01 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:19:01 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:19:01 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:27:27 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 2
+[12-Jul-2019 14:27:28 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:27:28 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:27:28 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 2
+[12-Jul-2019 14:29:12 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:12 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:12 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:30 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:30 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:29:30 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:33:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:33:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:33:19 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:33:19 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:37:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:37:15 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:37:15 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:37:15 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[12-Jul-2019 14:38:42 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:38:42 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:38:42 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:42:03 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:42:03 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:42:03 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:44:56 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:44:56 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[12-Jul-2019 14:44:56 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[13-Jul-2019 08:09:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[13-Jul-2019 08:32:54 UTC] PHP Warning:  Use of undefined constant session_start - assumed 'session_start' (this will throw an Error in a future version of PHP) in /home2/housinn1/public_html/willie/dashboard/inventory/read_all.php on line 2
+[13-Jul-2019 08:32:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[13-Jul-2019 08:33:17 UTC] PHP Warning:  Use of undefined constant session_start - assumed 'session_start' (this will throw an Error in a future version of PHP) in /home2/housinn1/public_html/willie/dashboard/inventory/read_all.php on line 2
+[13-Jul-2019 08:33:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[13-Jul-2019 08:56:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[17-Jul-2019 14:10:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 33
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 34
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 38
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[17-Jul-2019 14:28:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[18-Jul-2019 13:33:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:34:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:35:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:40:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:49:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:51:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:51:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:51:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:51:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:51:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 13:55:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 14:32:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 56
+[18-Jul-2019 14:34:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[18-Jul-2019 14:36:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[18-Jul-2019 14:37:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 14:37:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 14:38:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 14:39:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 14:41:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 14:45:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[18-Jul-2019 14:45:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[18-Jul-2019 18:37:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[18-Jul-2019 18:37:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 06:57:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 06:57:38 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:04:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:04:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:05:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:05:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:05:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:05:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:06:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:06:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:07:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:07:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:07:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:07:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:27:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:27:15 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:27:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:27:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:29:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:29:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 09:30:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 09:30:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:04:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:04:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:04:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:04:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:05:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:05:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:07:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:07:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:08:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:08:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 12:45:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 12:45:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[20-Jul-2019 13:15:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[20-Jul-2019 13:15:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[21-Jul-2019 13:44:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 13:44:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[21-Jul-2019 13:46:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 13:46:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[21-Jul-2019 13:48:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 13:48:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[21-Jul-2019 13:49:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 13:49:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[21-Jul-2019 13:55:46 UTC] PHP Parse error:  syntax error, unexpected '$', expecting ')' in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:55:59 UTC] PHP Parse error:  syntax error, unexpected '$', expecting ')' in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  Use of undefined constant auth - assumed 'auth' (this will throw an Error in a future version of PHP) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  Use of undefined constant login - assumed 'login' (this will throw an Error in a future version of PHP) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 13:56:19 UTC] PHP Warning:  Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 14:03:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/index.php:4) in /home2/housinn1/public_html/willie/dashboard/init.php on line 54
+[21-Jul-2019 14:03:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/index.php:4) in /home2/housinn1/public_html/willie/dashboard/init.php on line 54
+[21-Jul-2019 14:03:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/index.php:4) in /home2/housinn1/public_html/willie/dashboard/init.php on line 54
+[21-Jul-2019 14:03:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/index.php:4) in /home2/housinn1/public_html/willie/dashboard/init.php on line 54
+[21-Jul-2019 14:04:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/index.php:4) in /home2/housinn1/public_html/willie/dashboard/init.php on line 54
+[21-Jul-2019 17:34:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 17:34:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 17:34:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 17:34:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 17:34:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[21-Jul-2019 17:34:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[21-Jul-2019 17:34:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[22-Jul-2019 05:50:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php:1) in /home2/housinn1/public_html/willie/dashboard/init.php on line 52
+[22-Jul-2019 05:52:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:52:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_stop() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 05:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function session_close() in /home2/housinn1/public_html/willie/dashboard/inventory/init.php:2
+Stack trace:
+#0 /home2/housinn1/public_html/willie/dashboard/inventory/add_product.php(3): require_once()
+#1 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 33
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 34
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 38
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[22-Jul-2019 11:46:55 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[22-Jul-2019 11:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function int() in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php:32
+Stack trace:
+#0 {main}
+  thrown in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 32
+[22-Jul-2019 11:49:50 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:02:30 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:02:35 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:02:37 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:07 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:10 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:14 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:15 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:15 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:15 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:15 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:28 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:28 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:28 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:03:28 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:04:35 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:04:36 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:04:37 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:05:08 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:06:35 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 9
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 33
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 34
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 38
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[22-Jul-2019 12:14:39 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 33
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 34
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 38
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  Division by zero in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 8
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[22-Jul-2019 12:15:49 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/inventory/prepare_sale.php on line 15
+[25-Jul-2019 11:34:31 UTC] PHP Warning:  unlink(../../upload/communication.png): No such file or directory in /home2/housinn1/public_html/willie/dashboard/inventory/deleteImg.php on line 28
+[25-Jul-2019 11:43:08 UTC] PHP Warning:  unlink(../../upload/red-pill.jp): No such file or directory in /home2/housinn1/public_html/willie/dashboard/inventory/deleteImg.php on line 28
+[25-Jul-2019 11:51:10 UTC] PHP Warning:  unlink(../../upload/Django.png): No such file or directory in /home2/housinn1/public_html/willie/dashboard/inventory/deleteImg.php on line 28
+[29-Jul-2019 06:07:43 UTC] PHP Warning:  unlink(../../upload/180px_ormiston_pound.jpg): No such file or directory in /home2/housinn1/public_html/willie/dashboard/inventory/deleteImg.php on line 28
+[29-Jul-2019 10:43:11 UTC] PHP Warning:  unlink(../../upload/1.jpeg): No such file or directory in /home2/housinn1/public_html/willie/dashboard/inventory/deleteImg.php on line 28
+[28-Aug-2019 19:19:05 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:19:05 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:19:05 UTC] PHP Fatal error:  require(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:21:49 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:21:49 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:21:49 UTC] PHP Fatal error:  require(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:24:05 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:24:05 UTC] PHP Warning:  require(../config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:24:05 UTC] PHP Fatal error:  require(): Failed opening required '../config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:17 UTC] PHP Warning:  require(../../home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:17 UTC] PHP Warning:  require(../../home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:17 UTC] PHP Fatal error:  require(): Failed opening required '../../home2/housinn1/public_html/willie/config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:57 UTC] PHP Warning:  require(../../home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:57 UTC] PHP Warning:  require(../../home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:25:57 UTC] PHP Fatal error:  require(): Failed opening required '../../home2/housinn1/public_html/willie/config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:14 UTC] PHP Warning:  require(home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:14 UTC] PHP Warning:  require(home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:14 UTC] PHP Fatal error:  require(): Failed opening required 'home2/housinn1/public_html/willie/config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:57 UTC] PHP Warning:  require(home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:57 UTC] PHP Warning:  require(home2/housinn1/public_html/willie/config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:27:57 UTC] PHP Fatal error:  require(): Failed opening required 'home2/housinn1/public_html/willie/config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 2
+[28-Aug-2019 19:29:44 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[28-Aug-2019 19:29:44 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[28-Aug-2019 19:29:44 UTC] PHP Fatal error:  require(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[28-Aug-2019 19:31:12 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[28-Aug-2019 19:31:12 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[28-Aug-2019 19:31:12 UTC] PHP Fatal error:  require(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[29-Aug-2019 05:52:39 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[29-Aug-2019 05:52:39 UTC] PHP Warning:  require(config/database.php): failed to open stream: No such file or directory in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[29-Aug-2019 05:52:39 UTC] PHP Fatal error:  require(): Failed opening required 'config/database.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/housinn1/public_html/willie/dashboard/init.php on line 3
+[30-Aug-2019 15:53:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[30-Aug-2019 15:53:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[30-Aug-2019 15:58:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[30-Aug-2019 15:58:07 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2
+[30-Aug-2019 17:34:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/dashboard/inventory/init.php on line 2

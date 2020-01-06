@@ -1,0 +1,31 @@
+[13-Jul-2019 09:20:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[13-Jul-2019 19:55:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[13-Jul-2019 20:33:24 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/housinn1/public_html/willie/templates/header.php on line 3
+[16-Jul-2019 08:53:50 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 114
+[16-Jul-2019 08:54:00 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 114
+[16-Jul-2019 08:54:17 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 114
+[20-Jul-2019 07:23:47 UTC] PHP Parse error:  syntax error, unexpected '"', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home2/housinn1/public_html/willie/dashboard/purchases/read_all.php on line 25
+[30-Jul-2019 14:38:29 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[30-Jul-2019 14:38:57 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[30-Jul-2019 14:39:02 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[30-Jul-2019 14:39:04 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[30-Jul-2019 14:39:04 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 06:55:06 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 06:55:27 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 06:56:32 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 06:56:59 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 07:00:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 07:00:33 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 07:02:24 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 109
+[31-Jul-2019 07:47:49 UTC] PHP Parse error:  syntax error, unexpected '$add_purchase3' (T_VARIABLE) in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 160
+[01-Aug-2019 05:55:48 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 190
+[01-Aug-2019 05:57:48 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 190
+[01-Aug-2019 06:01:35 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 190
+[14-Aug-2019 11:45:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 266
+[14-Aug-2019 11:45:20 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 266
+[14-Aug-2019 11:45:27 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 145
+[14-Aug-2019 11:45:27 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 145
+[14-Aug-2019 11:45:42 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 266
+[14-Aug-2019 11:45:42 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 266
+[14-Aug-2019 11:47:05 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 145
+[14-Aug-2019 11:47:05 UTC] PHP Warning:  A non-numeric value encountered in /home2/housinn1/public_html/willie/dashboard/purchases/addpurchase.php on line 145
